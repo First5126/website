@@ -24,10 +24,10 @@ To Modify the Site:
  
 To run on windows desktop
 ## Prerequisite:
-Docker Desktop - [Download here](https://www.docker.com/products/docker-desktop/)
-Install Ruby, https://rubyinstaller.org/
-Install Jekyll, in terminal window `gem install jekyll`
-Install Bundler, in terminal window `gem install bundler`
-Make sure docker is running
-Start Docker: `docker-compose up` in Terminal Window
-Go to http://127.0.0.1:4000/ in your browser
+* Docker Desktop - [Download here](https://www.docker.com/products/docker-desktop/)
+* Install Ruby, https://rubyinstaller.org/
+* Install Jekyll, in terminal window `gem install jekyll`
+* Install Bundler, in terminal window `gem install bundler`
+* Make sure docker is running
+* Start Docker container: `docker-compose up` in Terminal Window 
+*Go to http://127.0.0.1:4000/ in your browser
