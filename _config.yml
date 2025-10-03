@@ -2,8 +2,8 @@
 title: "Park Hill South Robotics - EMP 5126"
 email: "info@frc5126.com"
 description: "We are a high school FIRST robotics team out of Riverside, MO"
-baseurl: "" 
-url: "" 
+baseurl: "/"
+url: "/"
 
 facebook_username: "frc5126"
 github_username: "First5126"
